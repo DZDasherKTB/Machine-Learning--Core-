@@ -136,3 +136,8 @@ I believe anyone can master ML — not with just courses, but with consistent ha
 ---
 
 > _Stay consistent, stay curious — mastery is built from the core._
+
+Copyright © 2025 Dashpreet Singh
+
+This project is licensed under the MIT License – see the LICENSE file for details.
+
